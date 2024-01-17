@@ -1,7 +1,7 @@
 # A single-cell 3D spatiotemporal multi-omics atlas from *Drosophila* embryogenesis to metamorphosis
 This repo contains custom codes using open-source softwares for analyses performed in this paper, available as preprint at:  
 This work is part of Spatiotemporal Omics Consortium, dedicated to resolving *Drosophila* development in 3D spatiotemporal contexts.  
-Currently, our datasets contains:  
+Currently, our datasets contain:  
 1. scStereo-seq data: 3D organism-wide single-cell spatial transcriptomes for 43 embryo, 9 larva, and 5 pupa samples, with a total of 3,812,505 cell bins;
 2. scRNA-seq data: 238,242 single-cell transcriptomes, collected at 2h intervals across embryogenesis;
 3. scATAC-seq data: 240,573 single-cell chromatin accessibility profiles, collected at 2h intervals across embryogenesis.
