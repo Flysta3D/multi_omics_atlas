@@ -9,18 +9,22 @@ Currently, our datasets contain:
 ## Links to processed matrices
 Processed data matrices are available through Mendeley Data.  
 Part 1: https://doi.org/10.17632/tvvjfr3c6j.1
+        
+        
 Part 2: https://doi.org/10.17632/29695x8txs.1
+        
+        
 Part 3: https://doi.org/10.17632/4zf847bxcd.1
+        
+        
         
 ## Links to databases
 These databases contain processed matrices and links to raw sequencing data of this series of study.  
 Flysta3D: https://db.cngb.org/stomics/flysta3d/  
-Flysta3D V2: https://db/cngb/org/stomics/flysta3d-v2/  
+Flysta3D V2: https://db.cngb.org/stomics/flysta3d-v2/  
 
 ## References
 1. Wang, M., Hu, Q., Lv, T., Wang, Y., Lan, Q., Xiang, R., Tu, Z., et al. (2022). High-resolution 3D spatiotemporal transcriptomic maps of developing *Drosophila* embryos and larvae. Dev Cell 57, 1271-1283.e4. 10.1016/j.devcel.2022.04.006
+        
+        
 2. Wang, M., Hu, Q., Tu, Z., Kong, L., et al. (2025). A *Drosophila* single-cell 3D spatiotemporal multi-omics atlas unveils panoramic key regulators of cell type differentiation. Cell 188, 1-20. 10.1016/j.cell.2025.05.047
-        
-        
-        
-        .
